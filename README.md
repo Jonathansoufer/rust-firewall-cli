@@ -15,6 +15,10 @@ Clone this repository and navigate into the project directory:
     cd firewall
     cargo run
 
+## Screenshots
+
+![Firewall CLI](src/img/firewall-cli.png)
+
 ## Features
 - **Rule Definition**: Define rules based on source IP, destination port, and other criteria.
 - **Rule Management**: Add, remove, and list firewall rules.
